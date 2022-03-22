@@ -1,5 +1,7 @@
 ## 前端八股文
 
+​                        <img src="https://tva1.sinaimg.cn/large/e6c9d24ely1h0iou51dstj21070kead8.jpg" style="zoom: 50%;" />
+
 ### 前言 
 最近半年时间一直在整理前端基础知识点
 
